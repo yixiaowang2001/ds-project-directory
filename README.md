@@ -10,4 +10,4 @@ The directory of finished/unfinished data science projects
    - Jul 2023 - Aug 2023
    - Python
    - Extract required information from company annual reports by using text classification method and fine-tuning BERT model
-   - [Details]()
+   - [Details](https://github.com/yixiaowang2001/ds-project-directory/tree/main/NLP/text-classification/info-extraction-annual-reports)
