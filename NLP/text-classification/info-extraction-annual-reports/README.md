@@ -10,4 +10,10 @@ The project uses 600+ PDFs as the train set and 30+ PDFs as the test set (50000+
 
 ## 3 Method
 
+<p align="center">
+  <img src="flowchart.png" width="600"/>
+</p>
+
 ## 4 Code
+
+1.
