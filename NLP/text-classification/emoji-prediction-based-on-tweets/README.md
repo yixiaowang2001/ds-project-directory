@@ -16,7 +16,6 @@ The project uses 20000 tweets per emoji from 20 emojis in total ([link to the da
 
 ## 4 Code
 
-1. [Data preprocessing](https://colab.research.google.com/drive/1UVthi_qhk3j8ywJDSliaKkgDmKj3eZbs?usp=sharing)
-2. [Fine-tuning BERT](https://colab.research.google.com/drive/11M43DOmSD3ocIkEgledFw3mIKc0qABCk?usp=sharing)
-3. [Keyword matching](https://colab.research.google.com/drive/1Aw7oTKHWEIBfO8-yjeXIPSQP8ME8F-W-?usp=sharing)
-4. [Running](https://colab.research.google.com/drive/1BtDn07Sc9llbf-i9W5IWZ8o082AqduTF?usp=sharing)
+1. [Tweets scraping](https://colab.research.google.com/drive/19K8P6ruOjtnSlWEcFmvy_q59bWGWe6PO?usp=sharing)
+2. [Data cleaning](https://colab.research.google.com/drive/1GN7kwUr9ap4hsh_dfHf4KBBEgPVeuEkv?usp=sharing)
+3. [Model training](https://colab.research.google.com/drive/11WTDK0XSsTJsEoZU2TeD1KUpq4R-ClZP?usp=sharing)
